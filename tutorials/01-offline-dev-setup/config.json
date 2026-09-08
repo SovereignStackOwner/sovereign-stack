@@ -1,0 +1,16 @@
+{
+  "models": [
+    {
+      "title": "Sovereign Coder (Local)",
+      "provider": "ollama",
+      "model": "sovereign-coder",
+      "apiBase": "http://localhost:11434"
+    }
+  ],
+  "tabAutocompleteModel": {
+    "title": "Autocomplete (Local)",
+    "provider": "ollama",
+    "model": "qwen3.5:9b",
+    "apiBase": "http://localhost:11434"
+  }
+}
